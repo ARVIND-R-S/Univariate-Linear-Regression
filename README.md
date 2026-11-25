@@ -41,8 +41,10 @@ plt.plot(x,ypred,color='Blue')
 plt.show()
 ```
 ## Output
-<img width="766" height="543" alt="Screenshot 2026-11-24 090048" src="https://github.com/user-attachments/assets/71608fce-2518-434d-8ccd-50a0eee0a101" />
-<img width="580" height="758" alt="Screenshot 2026-11-24 090123" src="https://github.com/user-attachments/assets/bd5ba4b3-d0c1-498e-85f2-ada130bbf0c8" />
+<img width="685" height="483" alt="Screenshot 2026-11-25 085900" src="https://github.com/user-attachments/assets/4905e1aa-8226-4df5-bf69-efd3563b3851" />
+
+
+<img width="708" height="813" alt="Screenshot 2026-11-25 085913" src="https://github.com/user-attachments/assets/e28def97-704b-457b-86ff-38c3bdf5e8c0" />
 
 ## Result
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares.
